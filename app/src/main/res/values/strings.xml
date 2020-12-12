@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BusinessCardApp</string>
+    <string name="_phoneNumber">+123 4567890</string>
+    <string name="string_phonenumber" />
+    <string name="janeappleseed_gmail_com">janeappleseed@gmail.com</string>
+    <string name="jane_appleseed">JANE APPLESEED</string>
+    <string name="educator">Educator</string>
+    <string name="california_usa">California, USA</string>
+    <string name="janeappleseed_com">janeappleseed.com</string>
+</resources>
